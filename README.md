@@ -1,6 +1,6 @@
 # Brighton warming × sewage-pollution experiment
 
-Code and data for the manuscript: **Gene-to-community level responses to multiple stressors on the rocky shore**.
+Code and data for the manuscript: **Gene-to-population level responses to multiple stressors on the rocky shore**.
 
 ## Repository structure
 - `Brighton project.Rproj`: RStudio project file (sets the working context).
