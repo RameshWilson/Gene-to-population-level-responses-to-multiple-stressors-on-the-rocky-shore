@@ -74,7 +74,8 @@ Daily precipitation was obtained from **Visual Crossing** during a time-limited 
 
 ## How to cite
 If you use this repository, please cite:
-- **Manuscript:** citation + DOI (to be added)
+- **Manuscript:** Wilson, R., K.Driver, J.Orr, M.Truebano, M.Collins, and M.Jackson. 2026. “Gene-to-Population Level Responses to Multiple Stressors on the Rocky Shore.” Ecology and Evolution, 16, no. 4: e73368.
+- **DOI:** doi.org/10.1002/ece3.73368.
 - **Ecological data**: https://doi.org/10.5281/zenodo.18121767
 
 ## Licence
